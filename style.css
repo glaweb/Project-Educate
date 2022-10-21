@@ -6,11 +6,12 @@
     box-sizing: border-box;
 }
 nav{
-    background-color: bisque;
+    background-color: #ffe4c4;
     height: 80px;
     width: 100%;
 
 }
+
 label.logo{
     font-size: 35px;
     line-height: 80px;
@@ -88,7 +89,4 @@ a.active,a:hover{
         left:0;
     }
 }
-img{
-    /* background-size: cover; */
-    width: 100vw;
-}
+
