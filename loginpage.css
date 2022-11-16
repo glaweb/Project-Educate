@@ -1,0 +1,62 @@
+.sec{
+    background: linear-gradient(to right,#267871,#136a8a);
+    color: white;
+    margin: auto;
+    box-shadow: 0 2px 10px rgb(0 0 0 / 20%), 0 10px 20px rgb(0 0 0 / 30%), 0 30px 60px 1px rgb(0 0 0 / 50%);
+    border-radius: 8px;
+    padding: 15px;
+
+}
+.span1{
+    font-size: 3em;
+    font-family: 'Dancing Script', cursive;
+}
+.plogo img{
+   height: 50px;
+   width: 50px;
+   border: 2px solid #264653;
+   border-radius: 50%;
+}
+.plogo{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    margin: 40px 0px;
+}
+.sec
+{
+    /* margin-top: 140px; */
+    width: 600px;
+}
+body{
+    background-image: url("icons-gray-bg.svg");
+}
+.buttonlogin{
+    text-align: center;
+}
+.buttonlogin button{
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+.buttonlogin .forgot{
+    color: white
+}
+.email, .password
+{
+  display: flex;
+}
+.email i,.password i{
+    font-size: 30px;
+    margin-top: 10px;
+    margin-right: 4px;
+}
+
+.emailpass{
+    border-radius: 25px;
+}
+
+.head3{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Source Serif Pro', serif;
+}
